@@ -28,13 +28,13 @@
     
     1. ПКМ по игре Crossout
     2. ПКМ по кнопке "Свойства"
-    3. В разделе Параметры запуска в поле написать следующую строку *--cvar cl_combatLog 1*
+    3. В разделе Параметры запуска в поле написать следующую строку --cvar cl_combatLog 1
 ![Создание логов](https://raw.githubusercontent.com/Pe4en6kabl9/CombatLogParser/main/9.PNG)
 
 ВТОРОЙ СПОСОБ (Через ярлык)
     
     1. ПКМ по ярлыку игры Crossout. Далее свойства
-    2. В поле "объект" добавьте ключ *--cvar cl_combatLog 1*
+    2. В поле "объект" добавьте ключ --cvar cl_combatLog 1
     3. Нажать "Применить"
 ![Создание логов](https://raw.githubusercontent.com/Pe4en6kabl9/CombatLogParser/main/10.png)
 ---
